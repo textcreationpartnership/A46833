@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bargain for bachelors, or, The best wife in the world for a penny fairly offered to young-men for directing their choice, and to maids for their imitation / by Mrs. Susanna Jesserson.</title>
+            <author>Jesserson, Susanna.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46833</idno>
+            <idno type="STC">Wing J686</idno>
+            <idno type="STC">ESTC R17118</idno>
+            <idno type="EEBO-CITATION">12165626</idno>
+            <idno type="OCLC">ocm 12165626</idno>
+            <idno type="VID">55302</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46833)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55302)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 108:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bargain for bachelors, or, The best wife in the world for a penny fairly offered to young-men for directing their choice, and to maids for their imitation / by Mrs. Susanna Jesserson.</title>
+                  <author>Jesserson, Susanna.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.A.,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage --  Early works to 1800.</term>
+               <term>Courtship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55302:1"/>
+            <!-- PDF PAGE 20 -->
+            <pb facs="tcp:55302:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <p>A Bargain for Bachelors Or: The BEST WIFE In the World for a PENNY Fairly Offered To young-men for directing their choice, and to Maids for their Imitation.</p>
+            <p>By Mrs. <hi>Suſanna Jeſserſon.</hi>
+            </p>
+            <q>
+               <l>You that have got no Wives, do not refuſe,</l>
+               <l>To learn from hence whom you may fitly chuſe;</l>
+               <l>And you that have 'um, here may let them ſee,</l>
+               <l>Better then in their Glaſs, what they ſhould be.</l>
+            </q>
+            <p>
+               <hi>Printed for</hi> E. A. 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:55302:2"/>
+            <!-- PDF PAGE 21 -->
+            <p>
+               <hi>The Vertuous matron,</hi> OR, The Incomparable Wife, <hi>&amp;c.</hi>
+            </p>
+            <p>I Am confident, Gallants! you no ſooner hear this Tytle of, A bargain for Batchelors, cryed under your windows, but you'l preſently con<g ref="char:EOLhyphen"/>ceit I am ſome old decayed Procureſs that by chance have got a pretty handſome bit of temptation out of the Country, and that this is a Bill giving no<g ref="char:EOLhyphen"/>tice, where her Maiden-head is to be ſold by inch of Candle; and methinks I ſee you already flinging the Foot-boys over the Beleonies for haſt to get the ad<g ref="char:EOLhyphen"/>vertiſement before your Neighbours; but in truth, Gentlemen, you are like to be honeſtly cheated, what I preſent you with is a wife; and to add to your ſur<g ref="char:EOLhyphen"/>prize, one that is honeſt and vertuous, with whoſe charms I have reaſon to ſuſpect you but little aquain<g ref="char:EOLhyphen"/>ted, ſince of late you have got a ſilly trick to deſpiſe and laugh at her very name, as if you could not be witts unleſs you proclaim'd your own ſelves Sons of whores, nor teſtifie your regards to our ſex but by
+<pb n="3" facs="tcp:55302:2"/>
+               <!-- PDF PAGE 21 -->diſhonouring your Mothers; for your converſion from this bruitiſh hereſie, I shall venture to ſet her picture before you, therefore wipe your eyes (I mean thoſe of your underſtanding if you have them about you) and view her in her native luſtre.</p>
+            <p>A good wiſe is the temperate zone, where alone love delights to inhabit, and free both from the froſts of peevish virginity, and ſcorching heats of rageing luſt, injoys a perpetual ſpring; She is the perfection of a man, or a loſt rib reſtored to compleat and per<g ref="char:EOLhyphen"/>petuate humane nature; a true coppy of our Mother Eve before she dialogu'd with the Serpent; a ſecond edition of female Divinity (with the Errata's correct<g ref="char:EOLhyphen"/>ed) polished with beauty, and bound up with chaſtity to convince the world that piety and goodneſs; The vertues and the graces are all of the feminine gender, she's an innocent iulep in an amorous fit, and a moſt reſtorative Cordial after 'tis over; A young mans Miſtris to adviſe him, a middle aged mans compani<g ref="char:EOLhyphen"/>on to ſolace him, and an old Mans Nurſe to cherish him; a help-meet in the cares of the world, and toils of buſineſs, and the moſt agreeable diverſion at hours of leiſure; an inſeparable ſecond ſelf that mitigates all a mans miſfortunes by dividing and sharing them, and doubles his joys and proſperities by an equal par<g ref="char:EOLhyphen"/>ticipation; The guardian of her husbands honour, and the conduit through which ſucceſsive nobility de<g ref="char:EOLhyphen"/>rives its glories, and to whoſe integrity the law com<g ref="char:EOLhyphen"/>mits the conveyance both of Titles and inheritances: She is the Elixir of temporal comforts, the onely A<g ref="char:EOLhyphen"/>mulet
+<pb n="4" facs="tcp:55302:3"/>
+               <!-- PDF PAGE 22 -->againſt the malice of fortune, the moſt to be admired, and the moſt to be deſired thing here below, and next to Abrahams beſome, every wiſe man would chuſe to lye in hers.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut this is onely a draught of her perfections in Landſcape, a tranſient confuſed proſpect of her excel<g ref="char:EOLhyphen"/>lencies in the Lump, be pleaſed to take a more par<g ref="char:EOLhyphen"/>ticular ſurvey, and each Irem will tranſport you with love and wonder.</p>
+            <p>She ſcarce thinks her ſelf obliged to thoſe that ap<g ref="char:EOLhyphen"/>plaud her for being chaſt, ſince 'twould be a curſe and a puniſhment for her to be otherwiſe, and though ſelf-murtherers are juſtly condemn'd, yet we never read of rewards given to people meerly becauſe they did not make away themſelves; honeſty is the great<g ref="char:EOLhyphen"/>eſt commendation for a bad Woman, but in a good one 'tis the leaſt; She chuſeth not a Husband by the ſtrength of his back, nor at all conſiders the luſty Calf, or complexion; if Rude Language aſſault her ear, innocency keeps it out from infecting her mind, and ſaves her other vertues the labour; She prevents the deſigns of the debauched at a diſtance, and by a ſtrict guard on her modeſty and aweful car<g ref="char:EOLhyphen"/>riage, ſecures her ſelf from being tempted, holding it for a Max me (though a Paradox.)
+<q>
+                  <l>That ſhe alone is chaſt that ne'r was try'd,</l>
+                  <l>He comes too near that comes to be deny'd.</l>
+               </q>
+            </p>
+            <p>Thus she shuns all occaſions that may commit a Rape upon her ſoul, or fill it with wandring petulant Idea's, and therefore reads the practice of Piety oft<g ref="char:EOLhyphen"/>ner then Cleopatra or Caſſandra, and takes more
+<pb n="5" facs="tcp:55302:3"/>
+               <!-- PDF PAGE 22 -->pleaſure in ſome Divine hiſtory with her corious nee<g ref="char:EOLhyphen"/>dle, than in the alluring ſcenes of the moſt Tickling comedy.</p>
+            <p>She loves but one, and that is him she should, viz. her husband, and she loves him becauſe he is ſo, and if he prove croſs or unkind it may exerciſe her pati<g ref="char:EOLhyphen"/>ence, but never deſtroy her affection.</p>
+            <p>This love she demonſtrates in the whole ſeries of her life by endearing obligations, and the greateſt re<g ref="char:EOLhyphen"/>ſpect, as remembring the duty of her place, and that God and the law have appointed him to be her head, and therefore endeavours to conceal his infirmities, as knowing them to be her own dishonours, and is as much ashamed to shew her ſelf wiſer than her Hus<g ref="char:EOLhyphen"/>band in company, as ſome pragmatical Goſsips are proud to be thought to have more wit than theirs, and if ever she be forced to tell him of a fault, she does it ſo ſweetly, and with ſo much diſcretion, that he finds reaſon to be angry with himſelf, but none to be offended with her, who ſtudies his temper, to work the better effects on his humours, takes the fitteſt op<g ref="char:EOLhyphen"/>portunities, and has a ſpecial care never to ſpeak out of ſeaſon, and ſo avoids ſcoldings and clamours as the plagues of marriage, and commands by obeying, and rules the roughneſs of his ſpirit by the ſoft compli<g ref="char:EOLhyphen"/>ances of hers; a flint that defies the anvil may eaſily be broken upon a feather-bed.</p>
+            <p>Her induſtry and frugality are no leſs remarkable than her diſcretion, she conſiders she is called a houſe wife, and endeavours to make good the Title, both
+<pb n="6" facs="tcp:55302:4"/>
+               <!-- PDF PAGE 23 -->by refraining from gadding abroad, and abhorring ſluttishneſs and ſletternly tricks at home; she provides liberally for her family, but has an eye that nothing be waſted, and remember that an ill manag'd Kitchin has deſtroyed many a noble Hall; She knows no ne<g ref="char:EOLhyphen"/>ceſsity for a breakfaſt in her bed, and can get up with<g ref="char:EOLhyphen"/>out being rouſed by the Treachers ratling to dinner; She ſpends more time in prayer and exerciſes of de<g ref="char:EOLhyphen"/>votion, than between the glaſs and the dreſsing-box; She ſuits her cloaths to her husband quality and abi<g ref="char:EOLhyphen"/>lity, rather then the fashion, yet loves neatneſs, and cannot indure any paint on her cheeks, but the natural vermillion of modeſt blushes; her good man dares truſt her with his cash without an exact account, nor does she call him to task for every odd Two-pence, She is not perpetually draining his purſe for Modish vanities, and envies not her next Neighbours New Gown or richer Laces, she never upbraids him with her portion or parentage, and is better imploy'd at Church, then to obſerve who has the fineſt Fan, the beſt ſuits of Knotts, or the moſt glittering Pendants. She is very tender of her Children, and thinks them her choiceſt treaſure, yet gives them no occaſion to curſe her hereafter for over-fond Indulgence, ſhe is courteous and ſociable to her Neighbours, but ſcorns to go a Hunting for Goſsipings, and thinks her time better ſpent at home (though but in patching a Diſh<g ref="char:EOLhyphen"/>clout) than in idle viſits, or expenſive Aſsignations for carrying on the grand affair of tatling; in brief, ſhe is religious, without Hypocrifie, diſcreet with<g ref="char:EOLhyphen"/>out
+<pb n="7" facs="tcp:55302:4"/>
+               <!-- PDF PAGE 23 -->pride, loving without folly, pleaſant without vanity, grave without clowniſhneſs, and h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that en<g ref="char:EOLhyphen"/>joys her, has no greater happineſs to wiſh fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>ſide Heaven.</p>
+            <p>And now Sirs, I doubt not but you like the Wi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> propoſe well enough, and begin to cry, Where i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Where is ſhe; Truly I ſhall neither ſend you t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> nor direct you point-blanck to her dw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing<g ref="char:punc">▪</g> ſhe lives very privately, ſome ſay 'tis at the ſign <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> Philoſophers-Stone, in Phoenix Alley, in Non-ſuc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtreet; but if you will but obſerve the following D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rections, and add thereto a competent d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your own diſcretion, 'tis much to be hoped you may light upon one of her Siſters.</p>
+            <p n="1">1. Let piety and ſolid vertue be the prime motive of your addreſſes, for be ſure where thoſe are want<g ref="char:EOLhyphen"/>ing, let the proverb ſay what it will, thoſe marriages were never made in heaven.</p>
+            <p n="2">2. Let her be deſcended of honeſt parentage, yet not too high above your own degree; For where there is too much difference in quality, 'tis rare, if they draw equally in the marriage yoak.</p>
+            <p n="3">3. Be not cheated with the modiſh conceit of a brisk and airy Girl, leaſt her lightneſs weigh down your head with a pair of ſtately horns; a ſolid breed<g ref="char:EOLhyphen"/>ing and de<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ortment <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s infinitely more commendable than th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t fantaſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Gayty; ſinging, dancing, &amp;c. are innocent a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pliſhments, yet can ſcarce anſwer for the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rge and time loſt in acquiring them, and are fat more taken in a miſtris than a Wife.</p>
+            <p n="4">
+               <pb n="8" facs="tcp:55302:5"/>
+               <!-- PDF PAGE 24 -->
+4. Never let money bribe you to a loathed bed, or make you accept of a wife in whoſe perſon you can take no delight: yet do not on the other ſide caſt away your ſelf for a pretty face, which three days Sickneſs can deſtroy.</p>
+            <p n="5">5. After her qualities, let your next conſideration be her portion; for though Riches alone of themſelves are not a ſufficient ground for a Match (for then it would be not a Marriage, but a Bargain and Sale) yet they are excellent good and comfortable additions; The hotteſt love being apt to cool and decay, where there is not the fewel of a Competent eſtate to feed and maintain it.</p>
+            <p n="6">6. Though, Vertue, Riches, and good Nature are excellent things by themſelves, yet joyned all to<g ref="char:EOLhyphen"/>gether, they are not enough to Juſtifie your choice, unleſs ſhe be fit to, I mean of a like humour, and a<g ref="char:EOLhyphen"/>greeable temper to ſuit with yours. For all love is both begot a continued b<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eneſs.</p>
+            <p>I have a great many other Documents to give you, but I fear here are more already then you will have patience to regard: And therefore I ſhall con<g ref="char:EOLhyphen"/>clude with the Parſon; So much shall ſuffice for this time.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:55302:5"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </body>
+   </text>
+</TEI>
